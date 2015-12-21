@@ -1,9 +1,16 @@
 {
-  "name": "",
+  "name": "hostednetwork.js",
   "version": "0.0.0",
-  "description": "",
+  "authors": ["Andrew Sampson", "Luigi Poole"],
+  "description": "Node binding for netsh hostednetwork win32 API",
+  "homepage": "https://github.com/luigiplr/hostednetwork.js",
   "main": "index.js",
-  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luigiplr/hostednetwork.js.git"
+  },
+  "bugs": "https://github.com/luigiplr/hostednetwork.js/issues",
+  "license": "GPL-3.0",
   "gypfile": true,
   "dependencies": {
     "bindings": "~1.2.1"
