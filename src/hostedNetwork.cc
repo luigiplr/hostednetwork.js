@@ -1,4 +1,5 @@
 #include <node.h>
+#include "Wlan.cpp"
 
 using namespace v8;
 
