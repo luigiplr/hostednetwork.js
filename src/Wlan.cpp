@@ -37,4 +37,3 @@ namespace WlanHostedNetwork
 		WlanHostedNetworkForceStop(_hClientHandle, &failReason, nullptr);
 	}
 }
-

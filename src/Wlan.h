@@ -14,4 +14,3 @@ namespace WlanHostedNetwork
 		WLAN_HOSTED_NETWORK_STATE getRunningState();
 	};
 }
-
